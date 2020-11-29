@@ -224,16 +224,16 @@ header{
 	position: absolute;
 }
 .service-items-manag::before{
-	content: url('../img/gear.svg');
+	content: url('../img/Gear.svg');
 }
 .service-items_ui::before{
-	content: url('../img/pencil.svg');
+	content: url('../img/Pencil.svg');
 }
 .service-items_logo::before{
-	content: url('../img/diamond.svg');
+	content: url('../img/Diamond.svg');
 }
 .service-items_animat::before{
-	content: url('../img/van.svg');
+	content: url('../img/Van.svg');
 }
 
 
